@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "82767606313",
+    "project_id": "quill-8467d",
+    "storage_bucket": "quill-8467d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82767606313:android:f49950528801e2aedb2238",
+        "android_client_info": {
+          "package_name": "com.example.quill_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82767606313-6flfkq2kiugbagofsvfcjqt997oarm5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3JhkWD2RK5Vi6inGmOTEWwS-MYATy8_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82767606313-6flfkq2kiugbagofsvfcjqt997oarm5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
